@@ -120,7 +120,7 @@ while True:
 
 
 
-    print(answ)
+    print(f'Сумма чисел равна: {answ}')
     break
 
 
